@@ -1,0 +1,167 @@
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Game Cờ Caro\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe.config
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Game Cờ Caro\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Game Cờ Caro\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.pdb
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Game Cờ Caro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Game Cờ Caro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Form1.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Game Cờ Caro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Properties.Resources.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Game Cờ Caro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Game Cờ Caro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Game Cờ Caro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.exe
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Game Cờ Caro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.pdb
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\New folder (4)\DoAn\Game Cờ Caro\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe.config
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\New folder (4)\DoAn\Game Cờ Caro\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\New folder (4)\DoAn\Game Cờ Caro\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.pdb
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\New folder (4)\DoAn\Game Cờ Caro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\New folder (4)\DoAn\Game Cờ Caro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Form1.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\New folder (4)\DoAn\Game Cờ Caro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.GameMode.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\New folder (4)\DoAn\Game Cờ Caro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Properties.Resources.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\New folder (4)\DoAn\Game Cờ Caro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\New folder (4)\DoAn\Game Cờ Caro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\New folder (4)\DoAn\Game Cờ Caro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.exe
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\New folder (4)\DoAn\Game Cờ Caro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.pdb
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\New folder (4)\DoAn\Game Cờ Caro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Start.resources
+D:\test LTMCB\New folder (4)\DoAn\Game Cờ Caro\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe.config
+D:\test LTMCB\New folder (4)\DoAn\Game Cờ Caro\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe
+D:\test LTMCB\New folder (4)\DoAn\Game Cờ Caro\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.pdb
+D:\test LTMCB\New folder (4)\DoAn\Game Cờ Caro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.AssemblyReference.cache
+D:\test LTMCB\New folder (4)\DoAn\Game Cờ Caro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.SuggestedBindingRedirects.cache
+D:\test LTMCB\New folder (4)\DoAn\Game Cờ Caro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Form1.resources
+D:\test LTMCB\New folder (4)\DoAn\Game Cờ Caro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.GameMode.resources
+D:\test LTMCB\New folder (4)\DoAn\Game Cờ Caro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Properties.Resources.resources
+D:\test LTMCB\New folder (4)\DoAn\Game Cờ Caro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Start.resources
+D:\test LTMCB\New folder (4)\DoAn\Game Cờ Caro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.GenerateResource.cache
+D:\test LTMCB\New folder (4)\DoAn\Game Cờ Caro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.CoreCompileInputs.cache
+D:\test LTMCB\New folder (4)\DoAn\Game Cờ Caro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.exe
+D:\test LTMCB\New folder (4)\DoAn\Game Cờ Caro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.pdb
+D:\test LTMCB\New folder (4)\DoAn\Game Cờ Caro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Chat.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\EndGame\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe.config
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\EndGame\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\EndGame\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.pdb
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\EndGame\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\EndGame\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Chat.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\EndGame\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Form1.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\EndGame\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.GameMode.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\EndGame\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Properties.Resources.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\EndGame\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.PvsC.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\EndGame\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Start.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\EndGame\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\EndGame\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\EndGame\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.exe
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\EndGame\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.pdb
+C:\Users\ASUS\Desktop\Đồ án LTMCB\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe.config
+C:\Users\ASUS\Desktop\Đồ án LTMCB\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe
+C:\Users\ASUS\Desktop\Đồ án LTMCB\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.pdb
+C:\Users\ASUS\Desktop\Đồ án LTMCB\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Đồ án LTMCB\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Đồ án LTMCB\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Chat.resources
+C:\Users\ASUS\Desktop\Đồ án LTMCB\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Form1.resources
+C:\Users\ASUS\Desktop\Đồ án LTMCB\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.GameMode.resources
+C:\Users\ASUS\Desktop\Đồ án LTMCB\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Đồ án LTMCB\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.PvsC.resources
+C:\Users\ASUS\Desktop\Đồ án LTMCB\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Start.resources
+C:\Users\ASUS\Desktop\Đồ án LTMCB\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Đồ án LTMCB\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Đồ án LTMCB\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.exe
+C:\Users\ASUS\Desktop\Đồ án LTMCB\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.pdb
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\DoAn\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe.config
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\DoAn\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\DoAn\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.pdb
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Chat.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Form1.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.GameMode.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Properties.Resources.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.PvsC.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Start.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.exe
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.pdb
+C:\Users\User\Desktop\DoAnCK\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DoAnCK\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\DoAnCK\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Chat.resources
+C:\Users\User\Desktop\DoAnCK\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.GameMode.resources
+C:\Users\User\Desktop\DoAnCK\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Properties.Resources.resources
+C:\Users\User\Desktop\DoAnCK\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.PvsC.resources
+C:\Users\User\Desktop\DoAnCK\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Start.resources
+C:\Users\User\Desktop\DoAnCK\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\DoAnCK\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DoAnCK\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.exe
+C:\Users\User\Desktop\DoAnCK\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.pdb
+C:\Users\User\Desktop\DoAnCK\DoAn\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe.config
+C:\Users\User\Desktop\DoAnCK\DoAn\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe
+C:\Users\User\Desktop\DoAnCK\DoAn\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.pdb
+C:\Users\User\Desktop\DoAnCK\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.PvsP.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Enddd\DoAnCK\DoAn\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe.config
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Enddd\DoAnCK\DoAn\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Enddd\DoAnCK\DoAn\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.pdb
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Enddd\DoAnCK\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Enddd\DoAnCK\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Chat.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Enddd\DoAnCK\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.PvsP.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Enddd\DoAnCK\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.GameMode.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Enddd\DoAnCK\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Properties.Resources.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Enddd\DoAnCK\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.PvsC.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Enddd\DoAnCK\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Start.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Enddd\DoAnCK\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Enddd\DoAnCK\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Enddd\DoAnCK\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.exe
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Enddd\DoAnCK\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.pdb
+C:\Users\User\Desktop\Đồ-Án-Cuối-Kỳ-2\DoAn\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe.config
+C:\Users\User\Desktop\Đồ-Án-Cuối-Kỳ-2\DoAn\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe
+C:\Users\User\Desktop\Đồ-Án-Cuối-Kỳ-2\DoAn\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.pdb
+C:\Users\User\Desktop\Đồ-Án-Cuối-Kỳ-2\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Đồ-Án-Cuối-Kỳ-2\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Đồ-Án-Cuối-Kỳ-2\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Chat.resources
+C:\Users\User\Desktop\Đồ-Án-Cuối-Kỳ-2\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.PvsP.resources
+C:\Users\User\Desktop\Đồ-Án-Cuối-Kỳ-2\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.GameMode.resources
+C:\Users\User\Desktop\Đồ-Án-Cuối-Kỳ-2\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Properties.Resources.resources
+C:\Users\User\Desktop\Đồ-Án-Cuối-Kỳ-2\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.PvsC.resources
+C:\Users\User\Desktop\Đồ-Án-Cuối-Kỳ-2\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Start.resources
+C:\Users\User\Desktop\Đồ-Án-Cuối-Kỳ-2\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Đồ-Án-Cuối-Kỳ-2\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Đồ-Án-Cuối-Kỳ-2\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.exe
+C:\Users\User\Desktop\Đồ-Án-Cuối-Kỳ-2\DoAn\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.pdb
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\DoAnCuoiKy\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe.config
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\DoAnCuoiKy\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\DoAnCuoiKy\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.pdb
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\DoAnCuoiKy\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\DoAnCuoiKy\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Chat.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\DoAnCuoiKy\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.PvsP.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\DoAnCuoiKy\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.GameMode.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\DoAnCuoiKy\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Properties.Resources.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\DoAnCuoiKy\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.PvsC.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\DoAnCuoiKy\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Start.resources
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\DoAnCuoiKy\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\DoAnCuoiKy\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\DoAnCuoiKy\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.exe
+C:\Users\HP\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\DoAnCuoiKy\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.pdb
+C:\Users\ACER\Desktop\ChotLancuoi\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe.config
+C:\Users\ACER\Desktop\ChotLancuoi\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe
+C:\Users\ACER\Desktop\ChotLancuoi\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.pdb
+C:\Users\ACER\Desktop\ChotLancuoi\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\ChotLancuoi\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Desktop\ChotLancuoi\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Chat.resources
+C:\Users\ACER\Desktop\ChotLancuoi\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.PvsP.resources
+C:\Users\ACER\Desktop\ChotLancuoi\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.GameMode.resources
+C:\Users\ACER\Desktop\ChotLancuoi\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Properties.Resources.resources
+C:\Users\ACER\Desktop\ChotLancuoi\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.PvsC.resources
+C:\Users\ACER\Desktop\ChotLancuoi\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Start.resources
+C:\Users\ACER\Desktop\ChotLancuoi\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\ChotLancuoi\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\ChotLancuoi\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.exe
+C:\Users\ACER\Desktop\ChotLancuoi\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.pdb
+D:\HK2_năm2\LapTrinhMang\ChotLancuoi\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe.config
+D:\HK2_năm2\LapTrinhMang\ChotLancuoi\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe
+D:\HK2_năm2\LapTrinhMang\ChotLancuoi\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.pdb
+D:\HK2_năm2\LapTrinhMang\ChotLancuoi\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.AssemblyReference.cache
+D:\HK2_năm2\LapTrinhMang\ChotLancuoi\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.SuggestedBindingRedirects.cache
+D:\HK2_năm2\LapTrinhMang\ChotLancuoi\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Chat.resources
+D:\HK2_năm2\LapTrinhMang\ChotLancuoi\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.PvsP.resources
+D:\HK2_năm2\LapTrinhMang\ChotLancuoi\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.GameMode.resources
+D:\HK2_năm2\LapTrinhMang\ChotLancuoi\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Properties.Resources.resources
+D:\HK2_năm2\LapTrinhMang\ChotLancuoi\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.PvsC.resources
+D:\HK2_năm2\LapTrinhMang\ChotLancuoi\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Start.resources
+D:\HK2_năm2\LapTrinhMang\ChotLancuoi\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.GenerateResource.cache
+D:\HK2_năm2\LapTrinhMang\ChotLancuoi\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.CoreCompileInputs.cache
+D:\HK2_năm2\LapTrinhMang\ChotLancuoi\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.exe
+D:\HK2_năm2\LapTrinhMang\ChotLancuoi\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.pdb
